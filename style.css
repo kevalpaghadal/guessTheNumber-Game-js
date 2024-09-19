@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Press Start 2P", system-ui;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #222;
+    color: whitesmoke;
+}
+
+.information{
+    border: 2px solid whitesmoke;
+    padding: 1rem;
+}
+.section1{
+    padding: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.section2{
+    margin-top: 4rem;
+    padding: 1rem;
+}
+.borderStyle{
+    position: relative;
+    border: 0.5rem solid whitesmoke;
+}
+.secretNumber{
+    position: absolute;
+    left: 46%;
+    top: 25%;
+    font-size: 3rem;
+    background-color: whitesmoke;
+    color: #222;
+    padding: 2rem;
+}
+
+.section3{
+    padding: 1rem;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+
+.section4{
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    
+}
+.inputBox{
+    font-size: 3rem;
+    width: 8rem;
+    height: 5rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.check{
+    width: 5rem;
+    height: 3rem;
+}
+
+.section5{
+    padding: 1rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.section5_1{
+    padding: 1rem;
+    display: flex;
+    
+}
+
+.section6{
+    padding: 0px 1rem 0px 0px;
+    display: flex;
+    justify-content: end;
+}
+.restart{
+    padding: 1rem;
+    background-color: whitesmoke;
+    color: #222;
+}
+
+.section5_1{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
